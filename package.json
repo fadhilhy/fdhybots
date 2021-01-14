@@ -1,7 +1,7 @@
 {
-  "name": "XBOT",
+  "name": "FDHY BOT",
   "version": "1.0.0",
-  "description": "TERMUX ONLY XBOT",
+  "description": "FDHY BOT 24 JAM",
   "main": "index.js",
   "directories": {
     "lib": "lib"
@@ -36,7 +36,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/affisjunianto/botwasapv2/.git"
+    "url": "git+https://github.com/fadhilhy/fdhybots/.git"
   },
   "keywords": [
     "k"
